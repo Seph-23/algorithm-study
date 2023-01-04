@@ -34,7 +34,7 @@ public class Main {
           }
         } else if (arr[i] + arr[j] < find) {
           i++;
-        } else {
+        } else {/////
           j--;
         }
       }
