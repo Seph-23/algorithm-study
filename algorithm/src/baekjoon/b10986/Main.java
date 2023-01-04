@@ -25,6 +25,10 @@ public class Main {
       C[remainder]++;                 //나머지가 같은 인덱스의 개수 카운팅하기
     }
 
+    for (long l : C) {
+      System.out.println("l = " + l);
+    }
+
     for (int i = 0; i < divisor; i++) {
       if (C[i] > 1) {
         answer = answer + (C[i] * (C[i] - 1) / 2);    //나머지가 같은 인덱스 중 2개를 뽑는 경우의 수를 더하기
