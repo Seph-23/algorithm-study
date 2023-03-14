@@ -2,6 +2,9 @@
 
 using namespace std;
 
+/**
+ * 코카 콜라
+ */
 int main() {
     int n;
     cin >> n;

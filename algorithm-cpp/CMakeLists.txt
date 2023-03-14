@@ -3,6 +3,6 @@ project(algorithm_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(algorithm_cpp main.cpp b11/main.cpp b11/main.h b11/main.cpp b1157/main.cpp b14502/main.cpp b1541/main.cpp algorithm-jobs/if-and-loop/main.cpp)
+add_executable(algorithm_cpp main.cpp b11/main.cpp b11/main.h b11/main.cpp b1157/main.cpp b14502/main.cpp b1541/main.cpp algorithm-jobs/chapter01-1/cocacola.cpp algorithm-jobs/chapter01-1/findmax.cpp algorithm-jobs/chapter01-2/getmoney.cpp)
 
 add_executable(Out main.cpp b11/main.cpp b11/main.h b11/main.cpp b1157/main.cpp b14502/main.cpp)
