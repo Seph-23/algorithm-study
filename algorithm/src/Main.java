@@ -1,5 +1,12 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+
+    int a = 10;
+    changeNum(a);
+    System.out.println(a);
+  }
+
+  public static void changeNum(int a) {
+    a += 5;
   }
 }
