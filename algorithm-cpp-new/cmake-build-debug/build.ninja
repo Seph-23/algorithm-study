@@ -108,11 +108,11 @@ build main: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.cpp.o
 
 build cmake_object_order_depends_target_out: phony || CMakeFiles/out.dir
 
-build CMakeFiles/out.dir/algorithmjobs/string/문자열뒤집기.cpp.o: CXX_COMPILER__out_Debug /Users/seph/Documents/Dev/git/algorithm-study/algorithm-cpp-new/algorithmjobs/string/문자열뒤집기.cpp || cmake_object_order_depends_target_out
-  DEP_FILE = CMakeFiles/out.dir/algorithmjobs/string/문자열뒤집기.cpp.o.d
+build CMakeFiles/out.dir/algorithmjobs/numbertheory/대식가유니.cpp.o: CXX_COMPILER__out_Debug /Users/seph/Documents/Dev/git/algorithm-study/algorithm-cpp-new/algorithmjobs/numbertheory/대식가유니.cpp || cmake_object_order_depends_target_out
+  DEP_FILE = CMakeFiles/out.dir/algorithmjobs/numbertheory/대식가유니.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
   OBJECT_DIR = CMakeFiles/out.dir
-  OBJECT_FILE_DIR = CMakeFiles/out.dir/algorithmjobs/string
+  OBJECT_FILE_DIR = CMakeFiles/out.dir/algorithmjobs/numbertheory
 
 
 # =============================================================================
@@ -122,7 +122,7 @@ build CMakeFiles/out.dir/algorithmjobs/string/문자열뒤집기.cpp.o: CXX_COMP
 #############################################
 # Link the executable out
 
-build out: CXX_EXECUTABLE_LINKER__out_Debug CMakeFiles/out.dir/algorithmjobs/string/문자열뒤집기.cpp.o
+build out: CXX_EXECUTABLE_LINKER__out_Debug CMakeFiles/out.dir/algorithmjobs/numbertheory/대식가유니.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/out.dir
   POST_BUILD = :
