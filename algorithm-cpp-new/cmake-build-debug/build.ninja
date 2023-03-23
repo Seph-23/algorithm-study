@@ -108,11 +108,11 @@ build main: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.cpp.o
 
 build cmake_object_order_depends_target_out: phony || CMakeFiles/out.dir
 
-build CMakeFiles/out.dir/barkingdog/queue/b18258.cpp.o: CXX_COMPILER__out_Debug /Users/seph/Documents/Dev/git/algorithm-study/algorithm-cpp-new/barkingdog/queue/b18258.cpp || cmake_object_order_depends_target_out
-  DEP_FILE = CMakeFiles/out.dir/barkingdog/queue/b18258.cpp.o.d
+build CMakeFiles/out.dir/algorithmjobs/bruteforce/baseballgame.cpp.o: CXX_COMPILER__out_Debug /Users/seph/Documents/Dev/git/algorithm-study/algorithm-cpp-new/algorithmjobs/bruteforce/baseballgame.cpp || cmake_object_order_depends_target_out
+  DEP_FILE = CMakeFiles/out.dir/algorithmjobs/bruteforce/baseballgame.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
   OBJECT_DIR = CMakeFiles/out.dir
-  OBJECT_FILE_DIR = CMakeFiles/out.dir/barkingdog/queue
+  OBJECT_FILE_DIR = CMakeFiles/out.dir/algorithmjobs/bruteforce
 
 
 # =============================================================================
@@ -122,7 +122,7 @@ build CMakeFiles/out.dir/barkingdog/queue/b18258.cpp.o: CXX_COMPILER__out_Debug 
 #############################################
 # Link the executable out
 
-build out: CXX_EXECUTABLE_LINKER__out_Debug CMakeFiles/out.dir/barkingdog/queue/b18258.cpp.o
+build out: CXX_EXECUTABLE_LINKER__out_Debug CMakeFiles/out.dir/algorithmjobs/bruteforce/baseballgame.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/out.dir
   POST_BUILD = :
