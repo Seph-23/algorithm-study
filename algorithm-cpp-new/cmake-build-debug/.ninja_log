@@ -1,15 +1,15 @@
 # ninja log v5
-4	1108	1679406486203092963	CMakeFiles/out.dir/algorithmjobs/string/문자열포함관계조사.cpp.o	aa32ddf439e2aac1
 0	1359	1679405196107110508	CMakeFiles/out.dir/algorithmjobs/string/과제물망치기.cpp.o	fde4c2cae0667713
-4	1062	1679391179632459329	CMakeFiles/out.dir/test/c2493.cpp.o	9cd9e78f6596b699
 3	1077	1679453851941552005	CMakeFiles/out.dir/algorithmjobs/bruteforce/사전퀴즈.cpp.o	dca7bc6968efdbc1
+4	1062	1679391179632459329	CMakeFiles/out.dir/test/c2493.cpp.o	9cd9e78f6596b699
+4	1108	1679406486203092963	CMakeFiles/out.dir/algorithmjobs/string/문자열포함관계조사.cpp.o	aa32ddf439e2aac1
 0	1100	1679394898012222324	CMakeFiles/out.dir/algorithmjobs/bruteforce/유니의숙제.cpp.o	c6a32b173acb7cd2
 4	1055	1679399192893035942	CMakeFiles/out.dir/algorithmjobs/numbertheory/약수출력.cpp.o	7f8d8162ec3593c3
 3	1020	1679392696371813599	CMakeFiles/algorithm_cpp_new.dir/main.cpp.o	cad46272ce3509c6
 0	1182	1679391108017327164	CMakeFiles/out.dir/main.cpp.o	7d4cca69ea4fca35
 4	1200	1679407458419870247	CMakeFiles/out.dir/algorithmjobs/string/문자열정렬.cpp.o	e961098ec42e40a9
 4	1070	1679397739784905889	CMakeFiles/out.dir/algorithmjobs/bruteforce/가장큰합.cpp.o	f504ca108edd613d
-1077	1143	1679453852011640325	out	31630025a63b44e1
+1431	1555	1679537410412607822	out	e2c7d076a4f220c8
 3	1142	1679409149116722035	CMakeFiles/out.dir/algorithmjobs/string/알파벳사이숫자.cpp.o	f59866d77f457bf8
 1020	1083	1679392696437803361	algorithm_cpp_new	4b6c69e54c594ee3
 4	1124	1679447125342024304	CMakeFiles/out.dir/barkingdog/stack/b2493.cpp.o	755e9eb78805f4c4
@@ -20,7 +20,8 @@
 1	1190	1679398743975448006	CMakeFiles/out.dir/algorithmjobs/bruteforce/채점.cpp.o	7118eb17b6f8883f
 0	1338	1679452042071524730	CMakeFiles/out.dir/algorithmjobs/bruteforce/GCDLCM.cpp.o	88b194be5d60b554
 0	1234	1679406676757939270	CMakeFiles/out.dir/algorithmjobs/string/팰린드롬조사.cpp.o	adfdcfc0f8fa565c
-0	1235	1679448983869251392	CMakeFiles/out.dir/barkingdog/stack/b3015.cpp.o	9f9c6ccd6fa237df
-3	1042	1679448100548428480	CMakeFiles/out.dir/barkingdog/stack/b6198.cpp.o	8026a714ed731254
 4	1074	1679403237375958871	CMakeFiles/out.dir/algorithmjobs/string/문자열압축2.cpp.o	c3268917e12c3167
+3	1042	1679448100548428480	CMakeFiles/out.dir/barkingdog/stack/b6198.cpp.o	8026a714ed731254
+0	1235	1679448983869251392	CMakeFiles/out.dir/barkingdog/stack/b3015.cpp.o	9f9c6ccd6fa237df
+0	1430	1679537410280983198	CMakeFiles/out.dir/barkingdog/queue/queue.cpp.o	e2793cd9e127ad7f
 3	996	1679397366212199453	CMakeFiles/out.dir/algorithmjobs/numbertheory/소수판정.cpp.o	f912c601a516276a

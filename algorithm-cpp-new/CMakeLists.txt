@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(algorithm_cpp_new main.cpp)
 
 add_executable(main main.cpp)
-add_executable(out algorithmjobs/bruteforce/baseballgame.cpp)
+add_executable(out barkingdog/queue/b18258.cpp)
