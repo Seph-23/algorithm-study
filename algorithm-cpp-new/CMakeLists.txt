@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(algorithm_cpp_new main.cpp)
 
 add_executable(main main.cpp)
-add_executable(out barkingdog/deque/diff/b5430.cpp)
+add_executable(out algorithmjobs/bruteforce/tetris.cpp)
