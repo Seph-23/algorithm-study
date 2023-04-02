@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_cpp_new.dir/main.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/다음큰숫자.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/다음큰숫자.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/숫자의표현.cpp.obj"

@@ -208,6 +208,30 @@ programmers/bitsettest.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/bitsettest.cpp.s
 .PHONY : programmers/bitsettest.cpp.s
 
+programmers/구명보트.obj: programmers/구명보트.cpp.obj
+.PHONY : programmers/구명보트.obj
+
+# target to build an object file
+programmers/구명보트.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.obj
+.PHONY : programmers/구명보트.cpp.obj
+
+programmers/구명보트.i: programmers/구명보트.cpp.i
+.PHONY : programmers/구명보트.i
+
+# target to preprocess a source file
+programmers/구명보트.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.i
+.PHONY : programmers/구명보트.cpp.i
+
+programmers/구명보트.s: programmers/구명보트.cpp.s
+.PHONY : programmers/구명보트.s
+
+# target to generate assembly for a file
+programmers/구명보트.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.s
+.PHONY : programmers/구명보트.cpp.s
+
 programmers/다음큰숫자.obj: programmers/다음큰숫자.cpp.obj
 .PHONY : programmers/다음큰숫자.obj
 
@@ -345,6 +369,9 @@ help:
 	@echo ... programmers/bitsettest.obj
 	@echo ... programmers/bitsettest.i
 	@echo ... programmers/bitsettest.s
+	@echo ... programmers/구명보트.obj
+	@echo ... programmers/구명보트.i
+	@echo ... programmers/구명보트.s
 	@echo ... programmers/다음큰숫자.obj
 	@echo ... programmers/다음큰숫자.i
 	@echo ... programmers/다음큰숫자.s
