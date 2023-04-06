@@ -1,29 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-string arr[70];
+string arr[70][70];
 string ans;
 
-bool check(int x, int y, int size){
-    for(int i=x; i<x+size; i++){
-        for(int j=y; j<y+size; j++){
-            if(arr[i][j] != arr[x][y]) return false;
-        }
-    }
-    return true;
-}
-
-void recur(int x, int y, int z){
-    if(check(x, y, z)){
-        ans += arr[x][y];
+void recur(int x, int y, int size){
+    if(size == 1){
+        cout << arr[x][y];
         return;
     }
-    int n = z / 2;
-    for(int i=0; i<2; i++){
-        for(int j=0; j<2; j++){
-            recur(x+i*2, y+i*2, n);
-        }
-    }
+    bool zero = true, one = true;
+    for(int i=y; i<y+n; i++){}
 }
 
 int main() {
@@ -32,9 +19,10 @@ int main() {
     int N;
     cin >> N;
     for(int i=0; i<N; i++){
-        cin >> arr[i];
+        string s;
+        cin >> s;
+        for(int j=0; j<N; j++)
+            arr[i][j] = s[j]-'0';
     }
-
     recur(0, 0, N);
-    cout << ans;
 }

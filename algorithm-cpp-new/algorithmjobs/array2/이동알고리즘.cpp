@@ -25,7 +25,7 @@ int main() {
             ny = y + dy[dir];
 
             if(nx < 0 || nx >= n || ny < 0 || ny >= m) break;
-            if(arr[nx][ny] == -1) break;
+            if(arr[nx][ny] == -1) break; 
             x = nx;
             y = ny;
         }
