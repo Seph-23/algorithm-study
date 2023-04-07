@@ -1,28 +1,46 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-string arr[70][70];
-string ans;
-
-void recur(int x, int y, int size){
-    if(size == 1){
-        cout << arr[x][y];
+int N;
+const int MAX = 64;
+int arr[MAX][MAX];
+void solve(int n, int y, int x)
+{
+    if (n == 1) {
+        cout << arr[y][x];
         return;
     }
     bool zero = true, one = true;
-    for(int i=y; i<y+n; i++){}
-}
-
-int main() {
-    cin.tie(0)->sync_with_stdio(0);
-
-    int N;
-    cin >> N;
-    for(int i=0; i<N; i++){
-        string s;
-        cin >> s;
-        for(int j=0; j<N; j++)
-            arr[i][j] = s[j]-'0';
+    for (int i = y; i < y + n; i++)
+        for (int j = x; j < x + n; j++)
+            if (arr[i][j])
+                zero = false;
+            else
+                one = false;
+    if (zero)
+        cout << 0;
+    else if (one)
+        cout << 1;
+    else {
+        cout << "(";
+        solve(n / 2, y, x); //왼쪽 위
+        solve(n / 2, y, x + n / 2); //오른쪽 위
+        solve(n / 2, y + n / 2, x); //왼쪽 아래
+        solve(n / 2, y + n / 2, x + n / 2); //오른쪽 아래
+        cout << ")";
     }
-    recur(0, 0, N);
+    return;
+}
+int main(void)
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cin >> N;
+    for (int i = 0; i < N; i++) {
+        string str;
+        cin >> str;
+        for (int j = 0; j < N; j++)
+            arr[i][j] = str[j] - '0';
+    }
+    solve(N, 0, 0);
 }
