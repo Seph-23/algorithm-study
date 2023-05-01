@@ -5,7 +5,7 @@ int n, m;
 int arr[10];
 bool used[10];
 
-void func(int k) {
+void recur(int k) {
     if(k == m){
         for(int i=0; i<m; i++){
             cout << arr[i] << ' ';
