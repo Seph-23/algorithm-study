@@ -187,7 +187,6 @@ programmers/bitsettest.obj: programmers/bitsettest.cpp.obj
 # target to build an object file
 programmers/bitsettest.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/bitsettest.cpp.obj
 .PHONY : programmers/bitsettest.cpp.obj
 
 programmers/bitsettest.i: programmers/bitsettest.cpp.i
@@ -196,7 +195,6 @@ programmers/bitsettest.i: programmers/bitsettest.cpp.i
 # target to preprocess a source file
 programmers/bitsettest.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/bitsettest.cpp.i
 .PHONY : programmers/bitsettest.cpp.i
 
 programmers/bitsettest.s: programmers/bitsettest.cpp.s
@@ -205,8 +203,31 @@ programmers/bitsettest.s: programmers/bitsettest.cpp.s
 # target to generate assembly for a file
 programmers/bitsettest.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/bitsettest.cpp.s
 .PHONY : programmers/bitsettest.cpp.s
+
+programmers/게임맵최단거리.obj: programmers/게임맵최단거리.cpp.obj
+.PHONY : programmers/게임맵최단거리.obj
+
+# target to build an object file
+programmers/게임맵최단거리.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/게임맵최단거리.cpp.obj
+.PHONY : programmers/게임맵최단거리.cpp.obj
+
+programmers/게임맵최단거리.i: programmers/게임맵최단거리.cpp.i
+.PHONY : programmers/게임맵최단거리.i
+
+# target to preprocess a source file
+programmers/게임맵최단거리.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/게임맵최단거리.cpp.i
+.PHONY : programmers/게임맵최단거리.cpp.i
+
+programmers/게임맵최단거리.s: programmers/게임맵최단거리.cpp.s
+.PHONY : programmers/게임맵최단거리.s
+
+# target to generate assembly for a file
+programmers/게임맵최단거리.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/게임맵최단거리.cpp.s
+.PHONY : programmers/게임맵최단거리.cpp.s
 
 programmers/구명보트.obj: programmers/구명보트.cpp.obj
 .PHONY : programmers/구명보트.obj
@@ -231,6 +252,30 @@ programmers/구명보트.s: programmers/구명보트.cpp.s
 programmers/구명보트.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.s
 .PHONY : programmers/구명보트.cpp.s
+
+programmers/다리를지나는트럭.obj: programmers/다리를지나는트럭.cpp.obj
+.PHONY : programmers/다리를지나는트럭.obj
+
+# target to build an object file
+programmers/다리를지나는트럭.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/다리를지나는트럭.cpp.obj
+.PHONY : programmers/다리를지나는트럭.cpp.obj
+
+programmers/다리를지나는트럭.i: programmers/다리를지나는트럭.cpp.i
+.PHONY : programmers/다리를지나는트럭.i
+
+# target to preprocess a source file
+programmers/다리를지나는트럭.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/다리를지나는트럭.cpp.i
+.PHONY : programmers/다리를지나는트럭.cpp.i
+
+programmers/다리를지나는트럭.s: programmers/다리를지나는트럭.cpp.s
+.PHONY : programmers/다리를지나는트럭.s
+
+# target to generate assembly for a file
+programmers/다리를지나는트럭.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/다리를지나는트럭.cpp.s
+.PHONY : programmers/다리를지나는트럭.cpp.s
 
 programmers/다음큰숫자.obj: programmers/다음큰숫자.cpp.obj
 .PHONY : programmers/다음큰숫자.obj
@@ -369,9 +414,15 @@ help:
 	@echo ... programmers/bitsettest.obj
 	@echo ... programmers/bitsettest.i
 	@echo ... programmers/bitsettest.s
+	@echo ... programmers/게임맵최단거리.obj
+	@echo ... programmers/게임맵최단거리.i
+	@echo ... programmers/게임맵최단거리.s
 	@echo ... programmers/구명보트.obj
 	@echo ... programmers/구명보트.i
 	@echo ... programmers/구명보트.s
+	@echo ... programmers/다리를지나는트럭.obj
+	@echo ... programmers/다리를지나는트럭.i
+	@echo ... programmers/다리를지나는트럭.s
 	@echo ... programmers/다음큰숫자.obj
 	@echo ... programmers/다음큰숫자.i
 	@echo ... programmers/다음큰숫자.s
