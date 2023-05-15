@@ -205,6 +205,30 @@ programmers/bitsettest.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.s
 .PHONY : programmers/bitsettest.cpp.s
 
+programmers/가장큰수.obj: programmers/가장큰수.cpp.obj
+.PHONY : programmers/가장큰수.obj
+
+# target to build an object file
+programmers/가장큰수.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.obj
+.PHONY : programmers/가장큰수.cpp.obj
+
+programmers/가장큰수.i: programmers/가장큰수.cpp.i
+.PHONY : programmers/가장큰수.i
+
+# target to preprocess a source file
+programmers/가장큰수.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.i
+.PHONY : programmers/가장큰수.cpp.i
+
+programmers/가장큰수.s: programmers/가장큰수.cpp.s
+.PHONY : programmers/가장큰수.s
+
+# target to generate assembly for a file
+programmers/가장큰수.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.s
+.PHONY : programmers/가장큰수.cpp.s
+
 programmers/게임맵최단거리.obj: programmers/게임맵최단거리.cpp.obj
 .PHONY : programmers/게임맵최단거리.obj
 
@@ -414,6 +438,9 @@ help:
 	@echo ... programmers/bitsettest.obj
 	@echo ... programmers/bitsettest.i
 	@echo ... programmers/bitsettest.s
+	@echo ... programmers/가장큰수.obj
+	@echo ... programmers/가장큰수.i
+	@echo ... programmers/가장큰수.s
 	@echo ... programmers/게임맵최단거리.obj
 	@echo ... programmers/게임맵최단거리.i
 	@echo ... programmers/게임맵최단거리.s
