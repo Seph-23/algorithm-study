@@ -17,6 +17,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_cpp_new.dir/programmers/영어끝말잇기.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/짝지어제거하기.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/짝지어제거하기.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/피보나치수.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/피보나치수.cpp.obj.d"
   "algorithm_cpp_new.exe"

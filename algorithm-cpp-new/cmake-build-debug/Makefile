@@ -211,6 +211,7 @@ programmers/가장큰수.obj: programmers/가장큰수.cpp.obj
 # target to build an object file
 programmers/가장큰수.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/가장큰수.cpp.obj
 .PHONY : programmers/가장큰수.cpp.obj
 
 programmers/가장큰수.i: programmers/가장큰수.cpp.i
@@ -219,6 +220,7 @@ programmers/가장큰수.i: programmers/가장큰수.cpp.i
 # target to preprocess a source file
 programmers/가장큰수.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/가장큰수.cpp.i
 .PHONY : programmers/가장큰수.cpp.i
 
 programmers/가장큰수.s: programmers/가장큰수.cpp.s
@@ -227,31 +229,8 @@ programmers/가장큰수.s: programmers/가장큰수.cpp.s
 # target to generate assembly for a file
 programmers/가장큰수.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/가장큰수.cpp.s
 .PHONY : programmers/가장큰수.cpp.s
-
-programmers/게임맵최단거리.obj: programmers/게임맵최단거리.cpp.obj
-.PHONY : programmers/게임맵최단거리.obj
-
-# target to build an object file
-programmers/게임맵최단거리.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/게임맵최단거리.cpp.obj
-.PHONY : programmers/게임맵최단거리.cpp.obj
-
-programmers/게임맵최단거리.i: programmers/게임맵최단거리.cpp.i
-.PHONY : programmers/게임맵최단거리.i
-
-# target to preprocess a source file
-programmers/게임맵최단거리.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/게임맵최단거리.cpp.i
-.PHONY : programmers/게임맵최단거리.cpp.i
-
-programmers/게임맵최단거리.s: programmers/게임맵최단거리.cpp.s
-.PHONY : programmers/게임맵최단거리.s
-
-# target to generate assembly for a file
-programmers/게임맵최단거리.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/게임맵최단거리.cpp.s
-.PHONY : programmers/게임맵최단거리.cpp.s
 
 programmers/구명보트.obj: programmers/구명보트.cpp.obj
 .PHONY : programmers/구명보트.obj
@@ -397,6 +376,30 @@ programmers/짝지어제거하기.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/짝지어제거하기.cpp.s
 .PHONY : programmers/짝지어제거하기.cpp.s
 
+programmers/큰수만들기.obj: programmers/큰수만들기.cpp.obj
+.PHONY : programmers/큰수만들기.obj
+
+# target to build an object file
+programmers/큰수만들기.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.obj
+.PHONY : programmers/큰수만들기.cpp.obj
+
+programmers/큰수만들기.i: programmers/큰수만들기.cpp.i
+.PHONY : programmers/큰수만들기.i
+
+# target to preprocess a source file
+programmers/큰수만들기.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.i
+.PHONY : programmers/큰수만들기.cpp.i
+
+programmers/큰수만들기.s: programmers/큰수만들기.cpp.s
+.PHONY : programmers/큰수만들기.s
+
+# target to generate assembly for a file
+programmers/큰수만들기.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.s
+.PHONY : programmers/큰수만들기.cpp.s
+
 programmers/피보나치수.obj: programmers/피보나치수.cpp.obj
 .PHONY : programmers/피보나치수.obj
 
@@ -441,9 +444,6 @@ help:
 	@echo ... programmers/가장큰수.obj
 	@echo ... programmers/가장큰수.i
 	@echo ... programmers/가장큰수.s
-	@echo ... programmers/게임맵최단거리.obj
-	@echo ... programmers/게임맵최단거리.i
-	@echo ... programmers/게임맵최단거리.s
 	@echo ... programmers/구명보트.obj
 	@echo ... programmers/구명보트.i
 	@echo ... programmers/구명보트.s
@@ -462,6 +462,9 @@ help:
 	@echo ... programmers/짝지어제거하기.obj
 	@echo ... programmers/짝지어제거하기.i
 	@echo ... programmers/짝지어제거하기.s
+	@echo ... programmers/큰수만들기.obj
+	@echo ... programmers/큰수만들기.i
+	@echo ... programmers/큰수만들기.s
 	@echo ... programmers/피보나치수.obj
 	@echo ... programmers/피보나치수.i
 	@echo ... programmers/피보나치수.s

@@ -179,8 +179,6 @@
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/가장큰수.cpp">
 			<Option target="algorithm_cpp_new"/>
-		</Unit>
-		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/게임맵최단거리.cpp">
 			<Option target="out"/>
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/구명보트.cpp">
@@ -199,6 +197,9 @@
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/짝지어제거하기.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/큰수만들기.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/피보나치수.cpp">
