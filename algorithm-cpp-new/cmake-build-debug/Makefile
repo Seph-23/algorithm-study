@@ -424,6 +424,30 @@ programmers/피보나치수.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/피보나치수.cpp.s
 .PHONY : programmers/피보나치수.cpp.s
 
+programmers/후보키.obj: programmers/후보키.cpp.obj
+.PHONY : programmers/후보키.obj
+
+# target to build an object file
+programmers/후보키.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/후보키.cpp.obj
+.PHONY : programmers/후보키.cpp.obj
+
+programmers/후보키.i: programmers/후보키.cpp.i
+.PHONY : programmers/후보키.i
+
+# target to preprocess a source file
+programmers/후보키.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/후보키.cpp.i
+.PHONY : programmers/후보키.cpp.i
+
+programmers/후보키.s: programmers/후보키.cpp.s
+.PHONY : programmers/후보키.s
+
+# target to generate assembly for a file
+programmers/후보키.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/후보키.cpp.s
+.PHONY : programmers/후보키.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -468,6 +492,9 @@ help:
 	@echo ... programmers/피보나치수.obj
 	@echo ... programmers/피보나치수.i
 	@echo ... programmers/피보나치수.s
+	@echo ... programmers/후보키.obj
+	@echo ... programmers/후보키.i
+	@echo ... programmers/후보키.s
 .PHONY : help
 
 
