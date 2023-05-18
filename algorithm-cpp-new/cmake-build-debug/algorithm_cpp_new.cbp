@@ -190,6 +190,9 @@
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/다음큰숫자.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/미로탈출.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/숫자의표현.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
