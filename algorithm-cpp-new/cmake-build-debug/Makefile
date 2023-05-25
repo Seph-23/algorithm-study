@@ -424,6 +424,30 @@ programmers/큰수만들기.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.s
 .PHONY : programmers/큰수만들기.cpp.s
 
+programmers/프렌즈4블록.obj: programmers/프렌즈4블록.cpp.obj
+.PHONY : programmers/프렌즈4블록.obj
+
+# target to build an object file
+programmers/프렌즈4블록.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.obj
+.PHONY : programmers/프렌즈4블록.cpp.obj
+
+programmers/프렌즈4블록.i: programmers/프렌즈4블록.cpp.i
+.PHONY : programmers/프렌즈4블록.i
+
+# target to preprocess a source file
+programmers/프렌즈4블록.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.i
+.PHONY : programmers/프렌즈4블록.cpp.i
+
+programmers/프렌즈4블록.s: programmers/프렌즈4블록.cpp.s
+.PHONY : programmers/프렌즈4블록.s
+
+# target to generate assembly for a file
+programmers/프렌즈4블록.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.s
+.PHONY : programmers/프렌즈4블록.cpp.s
+
 programmers/피보나치수.obj: programmers/피보나치수.cpp.obj
 .PHONY : programmers/피보나치수.obj
 
@@ -516,6 +540,9 @@ help:
 	@echo ... programmers/큰수만들기.obj
 	@echo ... programmers/큰수만들기.i
 	@echo ... programmers/큰수만들기.s
+	@echo ... programmers/프렌즈4블록.obj
+	@echo ... programmers/프렌즈4블록.i
+	@echo ... programmers/프렌즈4블록.s
 	@echo ... programmers/피보나치수.obj
 	@echo ... programmers/피보나치수.i
 	@echo ... programmers/피보나치수.s
