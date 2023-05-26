@@ -211,7 +211,6 @@ programmers/가장큰수.obj: programmers/가장큰수.cpp.obj
 # target to build an object file
 programmers/가장큰수.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/가장큰수.cpp.obj
 .PHONY : programmers/가장큰수.cpp.obj
 
 programmers/가장큰수.i: programmers/가장큰수.cpp.i
@@ -220,7 +219,6 @@ programmers/가장큰수.i: programmers/가장큰수.cpp.i
 # target to preprocess a source file
 programmers/가장큰수.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/가장큰수.cpp.i
 .PHONY : programmers/가장큰수.cpp.i
 
 programmers/가장큰수.s: programmers/가장큰수.cpp.s
@@ -229,7 +227,6 @@ programmers/가장큰수.s: programmers/가장큰수.cpp.s
 # target to generate assembly for a file
 programmers/가장큰수.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/가장큰수.cpp.s
 .PHONY : programmers/가장큰수.cpp.s
 
 programmers/구명보트.obj: programmers/구명보트.cpp.obj
@@ -424,12 +421,37 @@ programmers/큰수만들기.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.s
 .PHONY : programmers/큰수만들기.cpp.s
 
+programmers/파일명정렬.obj: programmers/파일명정렬.cpp.obj
+.PHONY : programmers/파일명정렬.obj
+
+# target to build an object file
+programmers/파일명정렬.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/파일명정렬.cpp.obj
+.PHONY : programmers/파일명정렬.cpp.obj
+
+programmers/파일명정렬.i: programmers/파일명정렬.cpp.i
+.PHONY : programmers/파일명정렬.i
+
+# target to preprocess a source file
+programmers/파일명정렬.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/파일명정렬.cpp.i
+.PHONY : programmers/파일명정렬.cpp.i
+
+programmers/파일명정렬.s: programmers/파일명정렬.cpp.s
+.PHONY : programmers/파일명정렬.s
+
+# target to generate assembly for a file
+programmers/파일명정렬.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/파일명정렬.cpp.s
+.PHONY : programmers/파일명정렬.cpp.s
+
 programmers/프렌즈4블록.obj: programmers/프렌즈4블록.cpp.obj
 .PHONY : programmers/프렌즈4블록.obj
 
 # target to build an object file
 programmers/프렌즈4블록.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/프렌즈4블록.cpp.obj
 .PHONY : programmers/프렌즈4블록.cpp.obj
 
 programmers/프렌즈4블록.i: programmers/프렌즈4블록.cpp.i
@@ -438,6 +460,7 @@ programmers/프렌즈4블록.i: programmers/프렌즈4블록.cpp.i
 # target to preprocess a source file
 programmers/프렌즈4블록.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/프렌즈4블록.cpp.i
 .PHONY : programmers/프렌즈4블록.cpp.i
 
 programmers/프렌즈4블록.s: programmers/프렌즈4블록.cpp.s
@@ -446,6 +469,7 @@ programmers/프렌즈4블록.s: programmers/프렌즈4블록.cpp.s
 # target to generate assembly for a file
 programmers/프렌즈4블록.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/programmers/프렌즈4블록.cpp.s
 .PHONY : programmers/프렌즈4블록.cpp.s
 
 programmers/피보나치수.obj: programmers/피보나치수.cpp.obj
@@ -540,6 +564,9 @@ help:
 	@echo ... programmers/큰수만들기.obj
 	@echo ... programmers/큰수만들기.i
 	@echo ... programmers/큰수만들기.s
+	@echo ... programmers/파일명정렬.obj
+	@echo ... programmers/파일명정렬.i
+	@echo ... programmers/파일명정렬.s
 	@echo ... programmers/프렌즈4블록.obj
 	@echo ... programmers/프렌즈4블록.i
 	@echo ... programmers/프렌즈4블록.s

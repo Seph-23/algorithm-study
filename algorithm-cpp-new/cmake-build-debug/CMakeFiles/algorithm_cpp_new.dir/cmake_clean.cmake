@@ -21,6 +21,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_cpp_new.dir/programmers/짝지어제거하기.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/파일명정렬.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/파일명정렬.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/피보나치수.cpp.obj"

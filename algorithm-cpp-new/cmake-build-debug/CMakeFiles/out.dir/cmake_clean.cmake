@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/out.dir/programmers/가장큰수.cpp.obj"
-  "CMakeFiles/out.dir/programmers/가장큰수.cpp.obj.d"
+  "CMakeFiles/out.dir/programmers/프렌즈4블록.cpp.obj"
+  "CMakeFiles/out.dir/programmers/프렌즈4블록.cpp.obj.d"
   "libout.dll.a"
   "out.exe"
   "out.exe.manifest"

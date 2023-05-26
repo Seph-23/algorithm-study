@@ -179,7 +179,6 @@
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/가장큰수.cpp">
 			<Option target="algorithm_cpp_new"/>
-			<Option target="out"/>
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/구명보트.cpp">
 			<Option target="algorithm_cpp_new"/>
@@ -205,8 +204,12 @@
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/큰수만들기.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/파일명정렬.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/프렌즈4블록.cpp">
 			<Option target="algorithm_cpp_new"/>
+			<Option target="out"/>
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/피보나치수.cpp">
 			<Option target="algorithm_cpp_new"/>
