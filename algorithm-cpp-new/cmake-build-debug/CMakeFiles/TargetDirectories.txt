@@ -1,5 +1,5 @@
-C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/algorithm_cpp_new.dir
-C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/out.dir
-C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/algorithm_cpp_new.dir
+/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/main.dir
+/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/out.dir
+/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
