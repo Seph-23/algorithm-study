@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/main.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/main.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/구명보트.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/다리를지나는트럭.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/다리를지나는트럭.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/다음큰숫자.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/다음큰숫자.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/미로탈출.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/미로탈출.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/숫자의표현.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/숫자의표현.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/영어끝말잇기.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/영어끝말잇기.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/짝지어제거하기.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/짝지어제거하기.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/큰수만들기.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/파일명정렬.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/파일명정렬.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/프렌즈4블록.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/피보나치수.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/피보나치수.cpp.o.d"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/후보키.cpp.o"
+  "CMakeFiles/algorithm_cpp_new.dir/programmers/후보키.cpp.o.d"
+  "algorithm_cpp_new"
+  "algorithm_cpp_new.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/algorithm_cpp_new.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
