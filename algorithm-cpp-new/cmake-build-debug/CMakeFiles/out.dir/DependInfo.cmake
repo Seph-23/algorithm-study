@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b4949.cpp" "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.o" "gcc" "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.o.d"
+  "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b4949.cpp" "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.obj" "gcc" "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.obj.d"
   )
 
 # Targets to which this target links.
