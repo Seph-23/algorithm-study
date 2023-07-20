@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.o"
-  "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.o.d"
-  "out"
+  "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.obj"
+  "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.obj.d"
+  "libout.dll.a"
+  "out.exe"
+  "out.exe.manifest"
   "out.pdb"
 )
 

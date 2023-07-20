@@ -8,215 +8,224 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm_cpp_new">
-				<Option output="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/algorithm_cpp_new" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option output="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/algorithm_cpp_new.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_cpp_new"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_cpp_new"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm_cpp_new/fast">
-				<Option output="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/algorithm_cpp_new" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option output="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/algorithm_cpp_new.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_cpp_new/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_cpp_new/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main">
-				<Option output="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option output="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main/fast">
-				<Option output="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option output="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="out">
-				<Option output="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/out" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option output="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 out"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 out"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="out/fast">
-				<Option output="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/out" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option output="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/out.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 out/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 out/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
+				<Option working_dir="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b3015.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b3015.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b4949.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b4949.cpp">
 			<Option target="out"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/main.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/main.cpp">
 			<Option target="algorithm_cpp_new"/>
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/bitsettest.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/bitsettest.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/가장큰수.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/가장큰수.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/구명보트.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/공원산책.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/다리를지나는트럭.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/구명보트.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/다음큰숫자.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/다리를지나는트럭.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/미로탈출.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/다음큰숫자.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/숫자의표현.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/미로탈출.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/영어끝말잇기.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/숫자의표현.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/짝지어제거하기.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/영어끝말잇기.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/큰수만들기.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/짝지어제거하기.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/파일명정렬.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/큰수만들기.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/프렌즈4블록.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/파일명정렬.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/피보나치수.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/프렌즈4블록.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/programmers/후보키.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/피보나치수.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
-		<Unit filename="/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/CMakeLists.txt">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/후보키.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
