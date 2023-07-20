@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.obj"
-  "CMakeFiles/out.dir/barkingdog/stack/b4949.cpp.obj.d"
-  "libout.dll.a"
-  "out.exe"
-  "out.exe.manifest"
+  "CMakeFiles/out.dir/barkingdog/deque/덱기능.cpp.o"
+  "CMakeFiles/out.dir/barkingdog/deque/덱기능.cpp.o.d"
+  "out"
   "out.pdb"
 )
 
