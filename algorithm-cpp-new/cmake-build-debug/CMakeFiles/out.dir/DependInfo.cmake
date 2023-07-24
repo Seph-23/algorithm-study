@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/barkingdog/deque/덱기능.cpp" "CMakeFiles/out.dir/barkingdog/deque/덱기능.cpp.o" "gcc" "CMakeFiles/out.dir/barkingdog/deque/덱기능.cpp.o.d"
+  "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/겹치는건싫어.cpp" "CMakeFiles/out.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj" "gcc" "CMakeFiles/out.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj.d"
   )
 
 # Targets to which this target links.
