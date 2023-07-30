@@ -154,6 +154,30 @@ out/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/build
 .PHONY : out/fast
 
+barkingdog/greedy/멀티탭.obj: barkingdog/greedy/멀티탭.cpp.obj
+.PHONY : barkingdog/greedy/멀티탭.obj
+
+# target to build an object file
+barkingdog/greedy/멀티탭.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.obj
+.PHONY : barkingdog/greedy/멀티탭.cpp.obj
+
+barkingdog/greedy/멀티탭.i: barkingdog/greedy/멀티탭.cpp.i
+.PHONY : barkingdog/greedy/멀티탭.i
+
+# target to preprocess a source file
+barkingdog/greedy/멀티탭.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.i
+.PHONY : barkingdog/greedy/멀티탭.cpp.i
+
+barkingdog/greedy/멀티탭.s: barkingdog/greedy/멀티탭.cpp.s
+.PHONY : barkingdog/greedy/멀티탭.s
+
+# target to generate assembly for a file
+barkingdog/greedy/멀티탭.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.s
+.PHONY : barkingdog/greedy/멀티탭.cpp.s
+
 barkingdog/stack/b3015.obj: barkingdog/stack/b3015.cpp.obj
 .PHONY : barkingdog/stack/b3015.obj
 
@@ -603,6 +627,9 @@ help:
 	@echo ... algorithm_cpp_new
 	@echo ... main
 	@echo ... out
+	@echo ... barkingdog/greedy/멀티탭.obj
+	@echo ... barkingdog/greedy/멀티탭.i
+	@echo ... barkingdog/greedy/멀티탭.s
 	@echo ... barkingdog/stack/b3015.obj
 	@echo ... barkingdog/stack/b3015.i
 	@echo ... barkingdog/stack/b3015.s
