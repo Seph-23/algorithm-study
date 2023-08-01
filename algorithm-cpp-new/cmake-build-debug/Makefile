@@ -154,6 +154,30 @@ out/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/build
 .PHONY : out/fast
 
+barkingdog/greedy/강의실배정.obj: barkingdog/greedy/강의실배정.cpp.obj
+.PHONY : barkingdog/greedy/강의실배정.obj
+
+# target to build an object file
+barkingdog/greedy/강의실배정.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.obj
+.PHONY : barkingdog/greedy/강의실배정.cpp.obj
+
+barkingdog/greedy/강의실배정.i: barkingdog/greedy/강의실배정.cpp.i
+.PHONY : barkingdog/greedy/강의실배정.i
+
+# target to preprocess a source file
+barkingdog/greedy/강의실배정.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.i
+.PHONY : barkingdog/greedy/강의실배정.cpp.i
+
+barkingdog/greedy/강의실배정.s: barkingdog/greedy/강의실배정.cpp.s
+.PHONY : barkingdog/greedy/강의실배정.s
+
+# target to generate assembly for a file
+barkingdog/greedy/강의실배정.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.s
+.PHONY : barkingdog/greedy/강의실배정.cpp.s
+
 barkingdog/greedy/멀티탭.obj: barkingdog/greedy/멀티탭.cpp.obj
 .PHONY : barkingdog/greedy/멀티탭.obj
 
@@ -627,6 +651,9 @@ help:
 	@echo ... algorithm_cpp_new
 	@echo ... main
 	@echo ... out
+	@echo ... barkingdog/greedy/강의실배정.obj
+	@echo ... barkingdog/greedy/강의실배정.i
+	@echo ... barkingdog/greedy/강의실배정.s
 	@echo ... barkingdog/greedy/멀티탭.obj
 	@echo ... barkingdog/greedy/멀티탭.i
 	@echo ... barkingdog/greedy/멀티탭.s
