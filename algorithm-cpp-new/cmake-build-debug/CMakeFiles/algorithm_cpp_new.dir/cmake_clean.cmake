@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/카드합체놀이.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/카드합체놀이.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj"
