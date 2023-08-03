@@ -235,6 +235,9 @@
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/후보키.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/softeer/garagegame.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -664,6 +664,30 @@ programmers/후보키.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/programmers/후보키.cpp.s
 .PHONY : programmers/후보키.cpp.s
 
+softeer/garagegame.obj: softeer/garagegame.cpp.obj
+.PHONY : softeer/garagegame.obj
+
+# target to build an object file
+softeer/garagegame.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/softeer/garagegame.cpp.obj
+.PHONY : softeer/garagegame.cpp.obj
+
+softeer/garagegame.i: softeer/garagegame.cpp.i
+.PHONY : softeer/garagegame.i
+
+# target to preprocess a source file
+softeer/garagegame.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/softeer/garagegame.cpp.i
+.PHONY : softeer/garagegame.cpp.i
+
+softeer/garagegame.s: softeer/garagegame.cpp.s
+.PHONY : softeer/garagegame.s
+
+# target to generate assembly for a file
+softeer/garagegame.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/softeer/garagegame.cpp.s
+.PHONY : softeer/garagegame.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -738,6 +762,9 @@ help:
 	@echo ... programmers/후보키.obj
 	@echo ... programmers/후보키.i
 	@echo ... programmers/후보키.s
+	@echo ... softeer/garagegame.obj
+	@echo ... softeer/garagegame.i
+	@echo ... softeer/garagegame.s
 .PHONY : help
 
 
