@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
+  "/Users/seph/Documents/dev/git/algorithm-study/algorithm-cpp-new/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

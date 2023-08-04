@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "algorithm_cpp_new.exe"
-		},
-		{
-			"path" : "algorithm_cpp_new.pdb"
+			"path" : "algorithm_cpp_new"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +35,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -fdiagnostics-color=always"
+					"fragment" : "-g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics"
+				},
+				{
+					"fragment" : "-std=gnu++17"
 				}
 			],
 			"language" : "CXX",
@@ -89,16 +89,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "algorithm_cpp_new",
-	"nameOnDisk" : "algorithm_cpp_new.exe",
+	"nameOnDisk" : "algorithm_cpp_new",
 	"paths" : 
 	{
 		"build" : ".",
