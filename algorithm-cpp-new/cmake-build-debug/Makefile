@@ -154,6 +154,30 @@ out/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/build
 .PHONY : out/fast
 
+barkingdog/breadthfirstsearch/확장겡임.obj: barkingdog/breadthfirstsearch/확장겡임.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/확장겡임.obj
+
+# target to build an object file
+barkingdog/breadthfirstsearch/확장겡임.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/확장겡임.cpp.obj
+
+barkingdog/breadthfirstsearch/확장겡임.i: barkingdog/breadthfirstsearch/확장겡임.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/확장겡임.i
+
+# target to preprocess a source file
+barkingdog/breadthfirstsearch/확장겡임.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/확장겡임.cpp.i
+
+barkingdog/breadthfirstsearch/확장겡임.s: barkingdog/breadthfirstsearch/확장겡임.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/확장겡임.s
+
+# target to generate assembly for a file
+barkingdog/breadthfirstsearch/확장겡임.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/확장겡임.cpp.s
+
 barkingdog/dynamicprogramming/동전.obj: barkingdog/dynamicprogramming/동전.cpp.obj
 .PHONY : barkingdog/dynamicprogramming/동전.obj
 
@@ -723,6 +747,9 @@ help:
 	@echo ... algorithm_cpp_new
 	@echo ... main
 	@echo ... out
+	@echo ... barkingdog/breadthfirstsearch/확장겡임.obj
+	@echo ... barkingdog/breadthfirstsearch/확장겡임.i
+	@echo ... barkingdog/breadthfirstsearch/확장겡임.s
 	@echo ... barkingdog/dynamicprogramming/동전.obj
 	@echo ... barkingdog/dynamicprogramming/동전.i
 	@echo ... barkingdog/dynamicprogramming/동전.s

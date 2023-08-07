@@ -170,6 +170,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/breadthfirstsearch/확장겡임.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/dynamicprogramming/동전.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
