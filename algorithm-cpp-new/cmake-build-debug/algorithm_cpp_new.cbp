@@ -170,7 +170,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/breadthfirstsearch/확장겡임.cpp">
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/breadthfirstsearch/확장게임.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/dynamicprogramming/동전.cpp">
@@ -191,6 +191,9 @@
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/겹치는건싫어.cpp">
 			<Option target="algorithm_cpp_new"/>
 			<Option target="out"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/선수.cpp">
+			<Option target="algorithm_cpp_new"/>
 		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/main.cpp">
 			<Option target="algorithm_cpp_new"/>

@@ -154,29 +154,29 @@ out/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/build
 .PHONY : out/fast
 
-barkingdog/breadthfirstsearch/확장겡임.obj: barkingdog/breadthfirstsearch/확장겡임.cpp.obj
-.PHONY : barkingdog/breadthfirstsearch/확장겡임.obj
+barkingdog/breadthfirstsearch/확장게임.obj: barkingdog/breadthfirstsearch/확장게임.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/확장게임.obj
 
 # target to build an object file
-barkingdog/breadthfirstsearch/확장겡임.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj
-.PHONY : barkingdog/breadthfirstsearch/확장겡임.cpp.obj
+barkingdog/breadthfirstsearch/확장게임.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/확장게임.cpp.obj
 
-barkingdog/breadthfirstsearch/확장겡임.i: barkingdog/breadthfirstsearch/확장겡임.cpp.i
-.PHONY : barkingdog/breadthfirstsearch/확장겡임.i
+barkingdog/breadthfirstsearch/확장게임.i: barkingdog/breadthfirstsearch/확장게임.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/확장게임.i
 
 # target to preprocess a source file
-barkingdog/breadthfirstsearch/확장겡임.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.i
-.PHONY : barkingdog/breadthfirstsearch/확장겡임.cpp.i
+barkingdog/breadthfirstsearch/확장게임.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/확장게임.cpp.i
 
-barkingdog/breadthfirstsearch/확장겡임.s: barkingdog/breadthfirstsearch/확장겡임.cpp.s
-.PHONY : barkingdog/breadthfirstsearch/확장겡임.s
+barkingdog/breadthfirstsearch/확장게임.s: barkingdog/breadthfirstsearch/확장게임.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/확장게임.s
 
 # target to generate assembly for a file
-barkingdog/breadthfirstsearch/확장겡임.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.s
-.PHONY : barkingdog/breadthfirstsearch/확장겡임.cpp.s
+barkingdog/breadthfirstsearch/확장게임.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/확장게임.cpp.s
 
 barkingdog/dynamicprogramming/동전.obj: barkingdog/dynamicprogramming/동전.cpp.obj
 .PHONY : barkingdog/dynamicprogramming/동전.obj
@@ -324,6 +324,30 @@ barkingdog/twopointer/겹치는건싫어.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/barkingdog/twopointer/겹치는건싫어.cpp.s
 .PHONY : barkingdog/twopointer/겹치는건싫어.cpp.s
+
+barkingdog/twopointer/선수.obj: barkingdog/twopointer/선수.cpp.obj
+.PHONY : barkingdog/twopointer/선수.obj
+
+# target to build an object file
+barkingdog/twopointer/선수.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj
+.PHONY : barkingdog/twopointer/선수.cpp.obj
+
+barkingdog/twopointer/선수.i: barkingdog/twopointer/선수.cpp.i
+.PHONY : barkingdog/twopointer/선수.i
+
+# target to preprocess a source file
+barkingdog/twopointer/선수.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.i
+.PHONY : barkingdog/twopointer/선수.cpp.i
+
+barkingdog/twopointer/선수.s: barkingdog/twopointer/선수.cpp.s
+.PHONY : barkingdog/twopointer/선수.s
+
+# target to generate assembly for a file
+barkingdog/twopointer/선수.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.s
+.PHONY : barkingdog/twopointer/선수.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -747,9 +771,9 @@ help:
 	@echo ... algorithm_cpp_new
 	@echo ... main
 	@echo ... out
-	@echo ... barkingdog/breadthfirstsearch/확장겡임.obj
-	@echo ... barkingdog/breadthfirstsearch/확장겡임.i
-	@echo ... barkingdog/breadthfirstsearch/확장겡임.s
+	@echo ... barkingdog/breadthfirstsearch/확장게임.obj
+	@echo ... barkingdog/breadthfirstsearch/확장게임.i
+	@echo ... barkingdog/breadthfirstsearch/확장게임.s
 	@echo ... barkingdog/dynamicprogramming/동전.obj
 	@echo ... barkingdog/dynamicprogramming/동전.i
 	@echo ... barkingdog/dynamicprogramming/동전.s
@@ -768,6 +792,9 @@ help:
 	@echo ... barkingdog/twopointer/겹치는건싫어.obj
 	@echo ... barkingdog/twopointer/겹치는건싫어.i
 	@echo ... barkingdog/twopointer/겹치는건싫어.s
+	@echo ... barkingdog/twopointer/선수.obj
+	@echo ... barkingdog/twopointer/선수.i
+	@echo ... barkingdog/twopointer/선수.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

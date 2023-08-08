@@ -8,13 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/breadthfirstsearch/확장겡임.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj.d"
+  "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/breadthfirstsearch/확장게임.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/dynamicprogramming/동전.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/greedy/강의실배정.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/greedy/멀티탭.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/greedy/카드합체놀이.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/카드합체놀이.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/카드합체놀이.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b3015.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/겹치는건싫어.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj.d"
+  "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/선수.cpp" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/main.cpp" "CMakeFiles/algorithm_cpp_new.dir/main.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/main.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/bitsettest.cpp" "CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.obj.d"
   "C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/programmers/가장큰수.cpp" "CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.obj" "gcc" "CMakeFiles/algorithm_cpp_new.dir/programmers/가장큰수.cpp.obj.d"

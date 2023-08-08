@@ -390,19 +390,33 @@ CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\dynamicprogramming\동전.cpp -o CMakeFiles\algorithm_cpp_new.dir\barkingdog\dynamicprogramming\동전.cpp.s
 
-CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj: CMakeFiles/algorithm_cpp_new.dir/flags.make
-CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj: C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/breadthfirstsearch/확장겡임.cpp
-CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj: CMakeFiles/algorithm_cpp_new.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj -MF CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장겡임.cpp.obj.d -o CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장겡임.cpp.obj -c C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\breadthfirstsearch\확장겡임.cpp
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj: CMakeFiles/algorithm_cpp_new.dir/flags.make
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj: C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/breadthfirstsearch/확장게임.cpp
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj: CMakeFiles/algorithm_cpp_new.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj -MF CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장게임.cpp.obj.d -o CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장게임.cpp.obj -c C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\breadthfirstsearch\확장게임.cpp
 
-CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\breadthfirstsearch\확장겡임.cpp > CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장겡임.cpp.i
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\breadthfirstsearch\확장게임.cpp > CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장게임.cpp.i
 
-CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\breadthfirstsearch\확장겡임.cpp -o CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장겡임.cpp.s
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\breadthfirstsearch\확장게임.cpp -o CMakeFiles\algorithm_cpp_new.dir\barkingdog\breadthfirstsearch\확장게임.cpp.s
+
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj: CMakeFiles/algorithm_cpp_new.dir/flags.make
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj: C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/선수.cpp
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj: CMakeFiles/algorithm_cpp_new.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj -MF CMakeFiles\algorithm_cpp_new.dir\barkingdog\twopointer\선수.cpp.obj.d -o CMakeFiles\algorithm_cpp_new.dir\barkingdog\twopointer\선수.cpp.obj -c C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\twopointer\선수.cpp
+
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\twopointer\선수.cpp > CMakeFiles\algorithm_cpp_new.dir\barkingdog\twopointer\선수.cpp.i
+
+CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\barkingdog\twopointer\선수.cpp -o CMakeFiles\algorithm_cpp_new.dir\barkingdog\twopointer\선수.cpp.s
 
 # Object files for target algorithm_cpp_new
 algorithm_cpp_new_OBJECTS = \
@@ -429,7 +443,8 @@ algorithm_cpp_new_OBJECTS = \
 "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/카드합체놀이.cpp.obj" \
 "CMakeFiles/algorithm_cpp_new.dir/softeer/garagegame.cpp.obj" \
 "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj" \
-"CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj"
+"CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj" \
+"CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj"
 
 # External object files for target algorithm_cpp_new
 algorithm_cpp_new_EXTERNAL_OBJECTS =
@@ -457,12 +472,13 @@ algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의
 algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/카드합체놀이.cpp.obj
 algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/softeer/garagegame.cpp.obj
 algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj
-algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj
+algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj
+algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj
 algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/build.make
 algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/linkLibs.rsp
 algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/objects1
 algorithm_cpp_new.exe: CMakeFiles/algorithm_cpp_new.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable algorithm_cpp_new.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\josep\Documents\git\algorithm-study\algorithm-cpp-new\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable algorithm_cpp_new.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\algorithm_cpp_new.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

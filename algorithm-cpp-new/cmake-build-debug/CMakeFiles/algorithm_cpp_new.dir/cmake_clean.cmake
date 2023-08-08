@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj"
-  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장겡임.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.obj"
@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/main.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/main.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/programmers/bitsettest.cpp.obj"
