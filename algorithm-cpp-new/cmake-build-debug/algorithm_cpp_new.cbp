@@ -185,6 +185,9 @@
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/greedy/카드합체놀이.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/greedy/택배.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/stack/b3015.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>

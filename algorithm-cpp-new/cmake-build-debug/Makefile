@@ -274,6 +274,30 @@ barkingdog/greedy/카드합체놀이.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/카드합체놀이.cpp.s
 .PHONY : barkingdog/greedy/카드합체놀이.cpp.s
 
+barkingdog/greedy/택배.obj: barkingdog/greedy/택배.cpp.obj
+.PHONY : barkingdog/greedy/택배.obj
+
+# target to build an object file
+barkingdog/greedy/택배.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/택배.cpp.obj
+.PHONY : barkingdog/greedy/택배.cpp.obj
+
+barkingdog/greedy/택배.i: barkingdog/greedy/택배.cpp.i
+.PHONY : barkingdog/greedy/택배.i
+
+# target to preprocess a source file
+barkingdog/greedy/택배.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/택배.cpp.i
+.PHONY : barkingdog/greedy/택배.cpp.i
+
+barkingdog/greedy/택배.s: barkingdog/greedy/택배.cpp.s
+.PHONY : barkingdog/greedy/택배.s
+
+# target to generate assembly for a file
+barkingdog/greedy/택배.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/택배.cpp.s
+.PHONY : barkingdog/greedy/택배.cpp.s
+
 barkingdog/stack/b3015.obj: barkingdog/stack/b3015.cpp.obj
 .PHONY : barkingdog/stack/b3015.obj
 
@@ -786,6 +810,9 @@ help:
 	@echo ... barkingdog/greedy/카드합체놀이.obj
 	@echo ... barkingdog/greedy/카드합체놀이.i
 	@echo ... barkingdog/greedy/카드합체놀이.s
+	@echo ... barkingdog/greedy/택배.obj
+	@echo ... barkingdog/greedy/택배.i
+	@echo ... barkingdog/greedy/택배.s
 	@echo ... barkingdog/stack/b3015.obj
 	@echo ... barkingdog/stack/b3015.i
 	@echo ... barkingdog/stack/b3015.s
