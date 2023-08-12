@@ -349,6 +349,30 @@ barkingdog/twopointer/겹치는건싫어.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\out.dir\build.make CMakeFiles/out.dir/barkingdog/twopointer/겹치는건싫어.cpp.s
 .PHONY : barkingdog/twopointer/겹치는건싫어.cpp.s
 
+barkingdog/twopointer/대표선수.obj: barkingdog/twopointer/대표선수.cpp.obj
+.PHONY : barkingdog/twopointer/대표선수.obj
+
+# target to build an object file
+barkingdog/twopointer/대표선수.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/대표선수.cpp.obj
+.PHONY : barkingdog/twopointer/대표선수.cpp.obj
+
+barkingdog/twopointer/대표선수.i: barkingdog/twopointer/대표선수.cpp.i
+.PHONY : barkingdog/twopointer/대표선수.i
+
+# target to preprocess a source file
+barkingdog/twopointer/대표선수.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/대표선수.cpp.i
+.PHONY : barkingdog/twopointer/대표선수.cpp.i
+
+barkingdog/twopointer/대표선수.s: barkingdog/twopointer/대표선수.cpp.s
+.PHONY : barkingdog/twopointer/대표선수.s
+
+# target to generate assembly for a file
+barkingdog/twopointer/대표선수.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/대표선수.cpp.s
+.PHONY : barkingdog/twopointer/대표선수.cpp.s
+
 barkingdog/twopointer/선수.obj: barkingdog/twopointer/선수.cpp.obj
 .PHONY : barkingdog/twopointer/선수.obj
 
@@ -819,6 +843,9 @@ help:
 	@echo ... barkingdog/twopointer/겹치는건싫어.obj
 	@echo ... barkingdog/twopointer/겹치는건싫어.i
 	@echo ... barkingdog/twopointer/겹치는건싫어.s
+	@echo ... barkingdog/twopointer/대표선수.obj
+	@echo ... barkingdog/twopointer/대표선수.i
+	@echo ... barkingdog/twopointer/대표선수.s
 	@echo ... barkingdog/twopointer/선수.obj
 	@echo ... barkingdog/twopointer/선수.i
 	@echo ... barkingdog/twopointer/선수.s

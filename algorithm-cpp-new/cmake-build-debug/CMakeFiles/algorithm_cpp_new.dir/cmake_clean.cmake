@@ -15,6 +15,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/stack/b3015.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/겹치는건싫어.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/대표선수.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/대표선수.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/twopointer/선수.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/main.cpp.obj"

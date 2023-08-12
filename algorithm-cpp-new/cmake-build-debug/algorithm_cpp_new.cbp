@@ -195,6 +195,9 @@
 			<Option target="algorithm_cpp_new"/>
 			<Option target="out"/>
 		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/대표선수.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/twopointer/선수.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
