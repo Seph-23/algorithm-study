@@ -250,6 +250,30 @@ barkingdog/greedy/멀티탭.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.s
 .PHONY : barkingdog/greedy/멀티탭.cpp.s
 
+barkingdog/greedy/멀티탭스케줄링.obj: barkingdog/greedy/멀티탭스케줄링.cpp.obj
+.PHONY : barkingdog/greedy/멀티탭스케줄링.obj
+
+# target to build an object file
+barkingdog/greedy/멀티탭스케줄링.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭스케줄링.cpp.obj
+.PHONY : barkingdog/greedy/멀티탭스케줄링.cpp.obj
+
+barkingdog/greedy/멀티탭스케줄링.i: barkingdog/greedy/멀티탭스케줄링.cpp.i
+.PHONY : barkingdog/greedy/멀티탭스케줄링.i
+
+# target to preprocess a source file
+barkingdog/greedy/멀티탭스케줄링.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭스케줄링.cpp.i
+.PHONY : barkingdog/greedy/멀티탭스케줄링.cpp.i
+
+barkingdog/greedy/멀티탭스케줄링.s: barkingdog/greedy/멀티탭스케줄링.cpp.s
+.PHONY : barkingdog/greedy/멀티탭스케줄링.s
+
+# target to generate assembly for a file
+barkingdog/greedy/멀티탭스케줄링.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭스케줄링.cpp.s
+.PHONY : barkingdog/greedy/멀티탭스케줄링.cpp.s
+
 barkingdog/greedy/카드합체놀이.obj: barkingdog/greedy/카드합체놀이.cpp.obj
 .PHONY : barkingdog/greedy/카드합체놀이.obj
 
@@ -831,6 +855,9 @@ help:
 	@echo ... barkingdog/greedy/멀티탭.obj
 	@echo ... barkingdog/greedy/멀티탭.i
 	@echo ... barkingdog/greedy/멀티탭.s
+	@echo ... barkingdog/greedy/멀티탭스케줄링.obj
+	@echo ... barkingdog/greedy/멀티탭스케줄링.i
+	@echo ... barkingdog/greedy/멀티탭스케줄링.s
 	@echo ... barkingdog/greedy/카드합체놀이.obj
 	@echo ... barkingdog/greedy/카드합체놀이.i
 	@echo ... barkingdog/greedy/카드합체놀이.s
