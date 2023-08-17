@@ -346,6 +346,54 @@ barkingdog/greedy/택배.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/택배.cpp.s
 .PHONY : barkingdog/greedy/택배.cpp.s
 
+barkingdog/priorityqueue/절댓값힙.obj: barkingdog/priorityqueue/절댓값힙.cpp.obj
+.PHONY : barkingdog/priorityqueue/절댓값힙.obj
+
+# target to build an object file
+barkingdog/priorityqueue/절댓값힙.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/priorityqueue/절댓값힙.cpp.obj
+.PHONY : barkingdog/priorityqueue/절댓값힙.cpp.obj
+
+barkingdog/priorityqueue/절댓값힙.i: barkingdog/priorityqueue/절댓값힙.cpp.i
+.PHONY : barkingdog/priorityqueue/절댓값힙.i
+
+# target to preprocess a source file
+barkingdog/priorityqueue/절댓값힙.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/priorityqueue/절댓값힙.cpp.i
+.PHONY : barkingdog/priorityqueue/절댓값힙.cpp.i
+
+barkingdog/priorityqueue/절댓값힙.s: barkingdog/priorityqueue/절댓값힙.cpp.s
+.PHONY : barkingdog/priorityqueue/절댓값힙.s
+
+# target to generate assembly for a file
+barkingdog/priorityqueue/절댓값힙.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/priorityqueue/절댓값힙.cpp.s
+.PHONY : barkingdog/priorityqueue/절댓값힙.cpp.s
+
+barkingdog/priorityqueue/카드정렬.obj: barkingdog/priorityqueue/카드정렬.cpp.obj
+.PHONY : barkingdog/priorityqueue/카드정렬.obj
+
+# target to build an object file
+barkingdog/priorityqueue/카드정렬.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/priorityqueue/카드정렬.cpp.obj
+.PHONY : barkingdog/priorityqueue/카드정렬.cpp.obj
+
+barkingdog/priorityqueue/카드정렬.i: barkingdog/priorityqueue/카드정렬.cpp.i
+.PHONY : barkingdog/priorityqueue/카드정렬.i
+
+# target to preprocess a source file
+barkingdog/priorityqueue/카드정렬.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/priorityqueue/카드정렬.cpp.i
+.PHONY : barkingdog/priorityqueue/카드정렬.cpp.i
+
+barkingdog/priorityqueue/카드정렬.s: barkingdog/priorityqueue/카드정렬.cpp.s
+.PHONY : barkingdog/priorityqueue/카드정렬.s
+
+# target to generate assembly for a file
+barkingdog/priorityqueue/카드정렬.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/priorityqueue/카드정렬.cpp.s
+.PHONY : barkingdog/priorityqueue/카드정렬.cpp.s
+
 barkingdog/stack/b3015.obj: barkingdog/stack/b3015.cpp.obj
 .PHONY : barkingdog/stack/b3015.obj
 
@@ -891,6 +939,12 @@ help:
 	@echo ... barkingdog/greedy/택배.obj
 	@echo ... barkingdog/greedy/택배.i
 	@echo ... barkingdog/greedy/택배.s
+	@echo ... barkingdog/priorityqueue/절댓값힙.obj
+	@echo ... barkingdog/priorityqueue/절댓값힙.i
+	@echo ... barkingdog/priorityqueue/절댓값힙.s
+	@echo ... barkingdog/priorityqueue/카드정렬.obj
+	@echo ... barkingdog/priorityqueue/카드정렬.i
+	@echo ... barkingdog/priorityqueue/카드정렬.s
 	@echo ... barkingdog/stack/b3015.obj
 	@echo ... barkingdog/stack/b3015.i
 	@echo ... barkingdog/stack/b3015.s
