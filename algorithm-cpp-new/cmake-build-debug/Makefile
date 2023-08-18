@@ -178,6 +178,30 @@ barkingdog/breadthfirstsearch/말이되고픈원숭이.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/말이되고픈원숭이.cpp.s
 .PHONY : barkingdog/breadthfirstsearch/말이되고픈원숭이.cpp.s
 
+barkingdog/breadthfirstsearch/텀프로젝트.obj: barkingdog/breadthfirstsearch/텀프로젝트.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/텀프로젝트.obj
+
+# target to build an object file
+barkingdog/breadthfirstsearch/텀프로젝트.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/텀프로젝트.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/텀프로젝트.cpp.obj
+
+barkingdog/breadthfirstsearch/텀프로젝트.i: barkingdog/breadthfirstsearch/텀프로젝트.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/텀프로젝트.i
+
+# target to preprocess a source file
+barkingdog/breadthfirstsearch/텀프로젝트.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/텀프로젝트.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/텀프로젝트.cpp.i
+
+barkingdog/breadthfirstsearch/텀프로젝트.s: barkingdog/breadthfirstsearch/텀프로젝트.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/텀프로젝트.s
+
+# target to generate assembly for a file
+barkingdog/breadthfirstsearch/텀프로젝트.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/텀프로젝트.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/텀프로젝트.cpp.s
+
 barkingdog/breadthfirstsearch/확장게임.obj: barkingdog/breadthfirstsearch/확장게임.cpp.obj
 .PHONY : barkingdog/breadthfirstsearch/확장게임.obj
 
@@ -918,6 +942,9 @@ help:
 	@echo ... barkingdog/breadthfirstsearch/말이되고픈원숭이.obj
 	@echo ... barkingdog/breadthfirstsearch/말이되고픈원숭이.i
 	@echo ... barkingdog/breadthfirstsearch/말이되고픈원숭이.s
+	@echo ... barkingdog/breadthfirstsearch/텀프로젝트.obj
+	@echo ... barkingdog/breadthfirstsearch/텀프로젝트.i
+	@echo ... barkingdog/breadthfirstsearch/텀프로젝트.s
 	@echo ... barkingdog/breadthfirstsearch/확장게임.obj
 	@echo ... barkingdog/breadthfirstsearch/확장게임.i
 	@echo ... barkingdog/breadthfirstsearch/확장게임.s
