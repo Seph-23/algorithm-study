@@ -182,6 +182,9 @@
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/dynamicprogramming/동전.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>
+		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/dynamicprogramming/팰린드롬.cpp">
+			<Option target="algorithm_cpp_new"/>
+		</Unit>
 		<Unit filename="C:/Users/josep/Documents/git/algorithm-study/algorithm-cpp-new/barkingdog/greedy/강의실배정.cpp">
 			<Option target="algorithm_cpp_new"/>
 		</Unit>

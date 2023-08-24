@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/확장게임.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.obj.d"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/팰린드롬.cpp.obj"
+  "CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/팰린드롬.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.obj"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/강의실배정.cpp.obj.d"
   "CMakeFiles/algorithm_cpp_new.dir/barkingdog/greedy/멀티탭.cpp.obj"

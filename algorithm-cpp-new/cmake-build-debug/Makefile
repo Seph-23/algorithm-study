@@ -250,6 +250,30 @@ barkingdog/dynamicprogramming/동전.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/동전.cpp.s
 .PHONY : barkingdog/dynamicprogramming/동전.cpp.s
 
+barkingdog/dynamicprogramming/팰린드롬.obj: barkingdog/dynamicprogramming/팰린드롬.cpp.obj
+.PHONY : barkingdog/dynamicprogramming/팰린드롬.obj
+
+# target to build an object file
+barkingdog/dynamicprogramming/팰린드롬.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/팰린드롬.cpp.obj
+.PHONY : barkingdog/dynamicprogramming/팰린드롬.cpp.obj
+
+barkingdog/dynamicprogramming/팰린드롬.i: barkingdog/dynamicprogramming/팰린드롬.cpp.i
+.PHONY : barkingdog/dynamicprogramming/팰린드롬.i
+
+# target to preprocess a source file
+barkingdog/dynamicprogramming/팰린드롬.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/팰린드롬.cpp.i
+.PHONY : barkingdog/dynamicprogramming/팰린드롬.cpp.i
+
+barkingdog/dynamicprogramming/팰린드롬.s: barkingdog/dynamicprogramming/팰린드롬.cpp.s
+.PHONY : barkingdog/dynamicprogramming/팰린드롬.s
+
+# target to generate assembly for a file
+barkingdog/dynamicprogramming/팰린드롬.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/dynamicprogramming/팰린드롬.cpp.s
+.PHONY : barkingdog/dynamicprogramming/팰린드롬.cpp.s
+
 barkingdog/greedy/강의실배정.obj: barkingdog/greedy/강의실배정.cpp.obj
 .PHONY : barkingdog/greedy/강의실배정.obj
 
@@ -951,6 +975,9 @@ help:
 	@echo ... barkingdog/dynamicprogramming/동전.obj
 	@echo ... barkingdog/dynamicprogramming/동전.i
 	@echo ... barkingdog/dynamicprogramming/동전.s
+	@echo ... barkingdog/dynamicprogramming/팰린드롬.obj
+	@echo ... barkingdog/dynamicprogramming/팰린드롬.i
+	@echo ... barkingdog/dynamicprogramming/팰린드롬.s
 	@echo ... barkingdog/greedy/강의실배정.obj
 	@echo ... barkingdog/greedy/강의실배정.i
 	@echo ... barkingdog/greedy/강의실배정.s
