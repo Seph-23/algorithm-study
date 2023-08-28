@@ -178,6 +178,30 @@ barkingdog/breadthfirstsearch/말이되고픈원숭이.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/말이되고픈원숭이.cpp.s
 .PHONY : barkingdog/breadthfirstsearch/말이되고픈원숭이.cpp.s
 
+barkingdog/breadthfirstsearch/불켜기.obj: barkingdog/breadthfirstsearch/불켜기.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/불켜기.obj
+
+# target to build an object file
+barkingdog/breadthfirstsearch/불켜기.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/불켜기.cpp.obj
+.PHONY : barkingdog/breadthfirstsearch/불켜기.cpp.obj
+
+barkingdog/breadthfirstsearch/불켜기.i: barkingdog/breadthfirstsearch/불켜기.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/불켜기.i
+
+# target to preprocess a source file
+barkingdog/breadthfirstsearch/불켜기.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/불켜기.cpp.i
+.PHONY : barkingdog/breadthfirstsearch/불켜기.cpp.i
+
+barkingdog/breadthfirstsearch/불켜기.s: barkingdog/breadthfirstsearch/불켜기.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/불켜기.s
+
+# target to generate assembly for a file
+barkingdog/breadthfirstsearch/불켜기.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm_cpp_new.dir\build.make CMakeFiles/algorithm_cpp_new.dir/barkingdog/breadthfirstsearch/불켜기.cpp.s
+.PHONY : barkingdog/breadthfirstsearch/불켜기.cpp.s
+
 barkingdog/breadthfirstsearch/텀프로젝트.obj: barkingdog/breadthfirstsearch/텀프로젝트.cpp.obj
 .PHONY : barkingdog/breadthfirstsearch/텀프로젝트.obj
 
@@ -966,6 +990,9 @@ help:
 	@echo ... barkingdog/breadthfirstsearch/말이되고픈원숭이.obj
 	@echo ... barkingdog/breadthfirstsearch/말이되고픈원숭이.i
 	@echo ... barkingdog/breadthfirstsearch/말이되고픈원숭이.s
+	@echo ... barkingdog/breadthfirstsearch/불켜기.obj
+	@echo ... barkingdog/breadthfirstsearch/불켜기.i
+	@echo ... barkingdog/breadthfirstsearch/불켜기.s
 	@echo ... barkingdog/breadthfirstsearch/텀프로젝트.obj
 	@echo ... barkingdog/breadthfirstsearch/텀프로젝트.i
 	@echo ... barkingdog/breadthfirstsearch/텀프로젝트.s
